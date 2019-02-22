@@ -1,4 +1,4 @@
-package com.lambdaschool.h2crudsnacks;
+package com.lambdaschool.ToDosController;
 
 import com.lambdaschool.h2crudsnacks.models.Customer;
 import com.lambdaschool.h2crudsnacks.models.Snack;
